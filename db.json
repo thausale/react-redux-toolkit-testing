@@ -1,0 +1,25 @@
+{
+ "vrienden": [
+    {
+    "id": 1,
+    "name": "els",
+    "picture":"http://randomuser.me/api/portraits/women/3.jpg"
+ },
+    {
+    "id": 2,
+    "name": "allejandro",
+    "picture":"http://randomuser.me/api/portraits/women/7.jpg"
+ },
+    {
+    "id": 3,
+    "name": "meau",
+    "picture":"http://randomuser.me/api/portraits/women/9.jpg"
+ },
+    {
+    "id": 4,
+    "name": "cindy",
+    "picture":"http://randomuser.me/api/portraits/women/13.jpg"
+ }
+
+]   
+}
